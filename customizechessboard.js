@@ -4,7 +4,9 @@
 // @version      0.7
 // @updateURL    https://raw.githubusercontent.com/salsan/customizechessboard/master/customizechessboard.js
 // @description  Customize Chessboard of internet chess server
-// @author       Salvatore Santagati
+// @author       salsan
+// @copyright    2020, Salvatore Santagati (https://blog.salsan.dev/)
+// @license      GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @match        https://lichess.org/*
 // @match        https://www.chess.com/*
 // @run-at       document-end
@@ -31,7 +33,7 @@ function isRotated (){
 
 
 function setPieces ( pieces ){
-       const website = window.location.hostname;
+    const website = window.location.hostname;
 
       if ( website === 'lichess.org' ){
             if ( isRotated() ) {
