@@ -19,7 +19,7 @@ Firefox addons:[https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](htt
 
 # License
 
-Copyright 2020 Salvatore Santagati <me@salsan.dev>
+Copyright 2020 Salvatore Santagati (<me@salsan.dev>)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
