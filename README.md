@@ -1,6 +1,6 @@
 # Customize Lichess
 
-Customize Lichess is a Tampermonkey user script, and custom your experince on Lichess.orgustomize Lichess
+Customize Lichess is a Tampermonkey user script, and custom your experince on Lichess.org
 
 
 # Installation
