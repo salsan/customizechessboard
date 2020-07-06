@@ -2,7 +2,7 @@
 // @name         Customize Chessboard
 // @namespace    https://github.com/salsan/customizechessboard
 // @version      0.7
-// @updateURL    https://raw.githubusercontent.com/salsan/customizechessboard/master/customizechessboard.js
+// @updateURL    https://raw.githubusercontent.com/salsan/customizechessboard/master/customizechessboard.user.js
 // @description  Customize Chessboard of internet chess server
 // @author       salsan
 // @copyright    2020, Salvatore Santagati (https://blog.salsan.dev/)
