@@ -1,10 +1,10 @@
 # Customize Lichess
-===
+
 Customize Lichess is a Tampermonkey user script, and custom your experince on Lichess.orgustomize Lichess
 
 
 # Installation
-===
+
 
 Install the Chrome/Firefox plugin Tampermonkey
 
@@ -14,13 +14,13 @@ Firefox addons:[https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](htt
 
 
 # Features
-===
+
 * customize your King
 
 License
-===
 
-Copyright 2014 Salvatore Santagati <salvatore.santagati@gmail.com>
+
+Copyright 2020 Salvatore Santagati <me@salsan.dev>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
