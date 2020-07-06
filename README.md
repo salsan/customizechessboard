@@ -17,8 +17,7 @@ Firefox addons:[https://addons.mozilla.org/en-US/firefox/addon/tampermonkey](htt
 
 * customize your King
 
-License
-
+# License
 
 Copyright 2020 Salvatore Santagati <me@salsan.dev>
 
